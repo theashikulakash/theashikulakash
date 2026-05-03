@@ -1,6 +1,6 @@
 <!-- ===================== HERO ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Ashikul+Islam;Senior+Full+Stack+Engineer;MERN+Stack+Specialist;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=111d4a&center=true&vCenter=true&width=800&lines=Hi+I'm+Ashikul+Islam;Full+Stack+Engineer;MERN+Stack+Specialist;Building+Scalable+Web+Applications" />
 </p>
 
 <h2 align="center">🚀 Premium Developer Dashboard</h2>
